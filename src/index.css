@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url('https://images.unsplash.com/photo-1482745637430-91c0bbcea3e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+  background-size: cover;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+h1 {
+  text-align: center;
+  font-family: cursive;
+}
+p {
+  text-align: center;
+}
+
+.taimoor {
+  border-color: black;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 50%;
+  position: fixed;
+  top: 15%;
+  left:40%;
+}
+
+#secondpg {
+  background-image: url('http://pakiholic.com/wp-content/uploads/2017/03/40.png');
+  background-size: cover;
+}
+
+#conbut {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+#formopen {
+  color: white;
+  background-color: green;
+  border: none;
+  cursor: pointer;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+form {
+  color: black;
+  font-style: italic;
+  position: fixed;
+  top: 45%;
+  left: 75%
+}
+
+
+
